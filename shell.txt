@@ -1,0 +1,4 @@
+﻿查看系统使用的shell版本：
+ls -l  /bin/sh
+修改默认的shell版本
+sudo dpkg-reconfigure dash

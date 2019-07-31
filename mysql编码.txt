@@ -1,0 +1,3 @@
+sudo vim /etc/mysql/mysql.conf.d/mysqld.cnf
+sudo vim /etc/mysql/conf.d/mysql.cnf
+sudo /etc/usr/mysql ./restart
